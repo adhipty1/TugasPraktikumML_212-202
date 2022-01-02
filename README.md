@@ -15,7 +15,7 @@ Loey, M., Manogaran, G., Taha, M. H. N., & Khalifa, N. E. M. (2021). A hybrid de
 https://github.com/huseinabdulh/Flask_ML_Praktikum
 
 ## Heroku
-https://flaskmlpraktikum.herokuapp.com/
+https://modul6.herokuapp.com/
 
 
 ## Contributors
