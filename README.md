@@ -2,9 +2,8 @@
 
 ## Deskripsi Dataset 
 Dalam penyusunan dataset ini menggunakan dataset yang didapatkan dari kaggle [FaceMask](https://www.kaggle.com/vijaykumar1799/face-mask-detection) yang terdiri dari :
-1. mask_weared_incorrect
-2. with_mask
-3. without_mask
+1. with_mask
+2. without_mask
 
 ## Paper Referensi
 A survey on 3D mask presentation attack detection and countermeasures
